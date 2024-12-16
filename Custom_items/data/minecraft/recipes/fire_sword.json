@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    " F ",
+    " S "
+  ],
+  "key": {
+    "F": { "item": "minecraft:blaze_rod" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "minecraft:diamond_sword",
+    "nbt": "{display:{Name:'{\"text\":\"炎の剣\",\"color\":\"red\"}',Lore:['{\"text\":\"灼熱の炎で敵を焼き尽くす\",\"color\":\"gold\"}']}}"
+  }
+}
